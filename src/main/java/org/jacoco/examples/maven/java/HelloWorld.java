@@ -1,3 +1,4 @@
+package com.mkyong.examples;
 package org.jacoco.examples.maven.java;
 
 public class HelloWorld {
